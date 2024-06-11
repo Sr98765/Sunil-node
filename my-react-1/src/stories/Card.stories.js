@@ -12,7 +12,7 @@ const Template = (args) => <Card {...args} />;
 export const Default = Template.bind({});
 Default.args = {
   title: "Card Title",
-  content: "This is the card content.",
+  content: "This is the card content sunil.",
 };
 
 export const WithLongerContent = Template.bind({});
