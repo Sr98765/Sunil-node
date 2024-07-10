@@ -1,6 +1,6 @@
 // src/stories/Card.stories.js
 import React from "react";
-import Card from "../Card"; // Correct import path
+import Card from "./Card"; // Correct import path
 
 export default {
   title: "Card",
